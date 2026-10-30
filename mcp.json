@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adplug-linkedin-ads": {
+      "type": "http",
+      "url": "https://api.adplug.app/mcp/linkedin-ads"
+    }
+  }
+}

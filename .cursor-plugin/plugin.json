@@ -1,0 +1,36 @@
+{
+  "name": "adplug-linkedin-ads",
+  "displayName": "AdPlug: LinkedIn Ads",
+  "version": "1.0.0",
+  "description": "Safely connect LinkedIn Ads to Grok, Grok Bot and Cursor, so your agent can check campaigns, audiences and lead forms, flag what needs attention and make the changes you approve. Built for B2B marketers, agencies and in-house teams.",
+  "author": {
+    "name": "AdPlug",
+    "email": "support@adplug.app"
+  },
+  "publisher": "MEANDATA IT SRL",
+  "homepage": "https://adplug.app/integrations/linkedin-ads",
+  "repository": "https://github.com/adplug-app/adplug-linkedin-ads-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "adplug",
+    "linkedin-ads",
+    "linkedin-campaign-manager",
+    "b2b-marketing",
+    "ppc",
+    "paid-social",
+    "lead-gen-forms",
+    "matched-audiences",
+    "ad-library",
+    "ad-reporting",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "advertising",
+    "marketing",
+    "ppc",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
